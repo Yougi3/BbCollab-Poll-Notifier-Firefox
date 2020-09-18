@@ -9,6 +9,6 @@
   },
   "notificationContent": {
     "message": "A new survey is available on the virtual classroom. Think about answering it!",
-    "description": "Tells the user which link they clicked."
+    "description": "Content of the click notification."
   }
 }

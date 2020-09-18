@@ -9,6 +9,6 @@
   },
   "notificationContent": {
     "message": "Un nouveau sondage est disponible sur la classe virtuelle. Pense à y répondre !",
-    "description": "Tells the user which link they clicked."
+    "description": "Content of the click notification."
   }
 }
